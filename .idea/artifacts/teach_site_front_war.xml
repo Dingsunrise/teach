@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="teach-site-front:war">
+    <output-path>$PROJECT_DIR$/teach-site/teach-site-front/target</output-path>
+    <root id="archive" name="teach-site-front-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="teach-site-front:war exploded" />
+    </root>
+  </artifact>
+</component>

@@ -1,0 +1,28 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="teach-site-front:war exploded">
+    <output-path>$PROJECT_DIR$/teach-site/teach-site-front/target/teach-site-front-1.0-SNAPSHOT</output-path>
+    <root id="root">
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="teach-site-front" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="archive" name="teach-common-1.0-SNAPSHOT.jar">
+            <element id="module-output" name="teach-common" />
+          </element>
+          <element id="archive" name="teach-provider-1.0-SNAPSHOT.jar">
+            <element id="module-output" name="teach-provider" />
+          </element>
+          <element id="archive" name="teach-common-base-1.0-SNAPSHOT.jar">
+            <element id="module-output" name="teach-common-base" />
+          </element>
+          <element id="library" level="project" name="Maven: com.alibaba:fastjson:1.2.61" />
+        </element>
+      </element>
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/teach-site/teach-site-front/target/teach-site-front-1.0-SNAPSHOT/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="javaee-facet-resources" facet="teach-site-front/web/Web" />
+    </root>
+  </artifact>
+</component>

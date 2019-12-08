@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/teach.iml" filepath="$PROJECT_DIR$/teach.iml" />
+      <module fileurl="file://$PROJECT_DIR$/teach-common/teach-common.iml" filepath="$PROJECT_DIR$/teach-common/teach-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/teach-common/teach-common-base/teach-common-base.iml" filepath="$PROJECT_DIR$/teach-common/teach-common-base/teach-common-base.iml" />
+      <module fileurl="file://$PROJECT_DIR$/teach-common/teach-common-web/teach-common-web.iml" filepath="$PROJECT_DIR$/teach-common/teach-common-web/teach-common-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/teach-provider/teach-provider.iml" filepath="$PROJECT_DIR$/teach-provider/teach-provider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/teach-provider/teach-provider-api/teach-provider-api.iml" filepath="$PROJECT_DIR$/teach-provider/teach-provider-api/teach-provider-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/teach-provider/teach-provider-biz/teach-provider-biz.iml" filepath="$PROJECT_DIR$/teach-provider/teach-provider-biz/teach-provider-biz.iml" />
+      <module fileurl="file://$PROJECT_DIR$/teach-provider/teach-provider-service-api/teach-provider-service-api.iml" filepath="$PROJECT_DIR$/teach-provider/teach-provider-service-api/teach-provider-service-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/teach-site/teach-site.iml" filepath="$PROJECT_DIR$/teach-site/teach-site.iml" />
+      <module fileurl="file://$PROJECT_DIR$/teach-site/teach-site-front/teach-site-front.iml" filepath="$PROJECT_DIR$/teach-site/teach-site-front/teach-site-front.iml" />
+    </modules>
+  </component>
+</project>

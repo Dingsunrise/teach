@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="teach-common-base" />
+        <module name="teach-common-web" />
+        <module name="teach-provider-api" />
+        <module name="teach-provider-biz" />
+        <module name="teach-provider-service-api" />
+        <module name="teach-site-front" />
+        <module name="teachcommon" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel target="1.7">
+      <module name="teach" target="1.8" />
+      <module name="teach-common" target="1.8" />
+      <module name="teach-common-base" target="1.8" />
+      <module name="teach-common-web" target="1.8" />
+      <module name="teach-provider" target="1.8" />
+      <module name="teach-provider-api" target="1.8" />
+      <module name="teach-provider-biz" target="1.8" />
+      <module name="teach-provider-service-api" target="1.8" />
+      <module name="teach-site" target="1.8" />
+      <module name="teach-site-front" target="1.8" />
+      <module name="teachcommon" target="1.7" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
